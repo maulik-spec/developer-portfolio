@@ -75,7 +75,7 @@ The 1–4 ratings are for Maulik to self-assess. They are left unfilled rather t
 
 **Project milestone:** Build two scoped projects: one machine-learning project with a documented evaluation, and one data pipeline or analytics project. Keep datasets public or otherwise permitted.
 
-**Personal project idea:** A campus study assistant that answers questions from course notes using retrieval-augmented generation and points back to the source passages. This idea builds on Maulik's stated interest in the Generative AI and RAG workshop.
+**Candidate personal project idea:** A campus study assistant that answers questions from course notes using retrieval-augmented generation and points back to the source passages. This suggestion draws on the Generative AI and RAG workshop you mentioned; replace it if it is not a project you are genuinely excited to build.
 
 **Career target:** Pursue an internship or supervised project related to data analytics, AI, or machine learning.
 
