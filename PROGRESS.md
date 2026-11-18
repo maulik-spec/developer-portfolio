@@ -2,14 +2,14 @@
 
 **Updated:** 2026-11-18
 
-> Accurate starting point: these platform accounts and activities have not yet been confirmed. Do not count a problem as attempted, a test as taken, or a certificate as earned until that happens.
+> Starting point based on your message: these exercise activities have not been completed. Profile URLs are not recorded here. Do not count a problem as attempted, a test as taken, or a certificate as earned until you complete it.
 
 ---
 
 ## HackerRank
 
-- Profile URL: Not created or provided
-- Introductory problems: 0/3 confirmed
+- Profile URL: Not recorded
+- Introductory problems: 0/3 attempted
   - [ ] Say 'Hello, World!' With Python
   - [ ] Python If-Else
   - [ ] Arithmetic Operators
@@ -19,10 +19,10 @@
 ## LeetCode
 
 - Profile URL: Not created or provided
-- Problems attempted: 0/2 confirmed
+- Problems attempted: 0/2 attempted
   - [ ] Two Sum (#1)
   - [ ] Palindrome Number (#9)
-- Problems solved: 0 confirmed
+- Problems solved: 0 completed
 - Editorials read: 0 confirmed
 
 ## freeCodeCamp
