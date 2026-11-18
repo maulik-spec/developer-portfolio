@@ -1,15 +1,60 @@
-# Progress Tracker
+# Coding Platform Progress Tracker
 
-No coding-platform account names or solved-problem counts were provided yet. Add verified progress here as it is completed.
+**Updated:** 2026-11-18
 
-| Platform | Profile | Progress |
+> Accurate starting point: these platform accounts and activities have not yet been confirmed. Do not count a problem as attempted, a test as taken, or a certificate as earned until that happens.
+
+---
+
+## HackerRank
+
+- Profile URL: Not created or provided
+- Introductory problems: 0/3 confirmed
+  - [ ] Say 'Hello, World!' With Python
+  - [ ] Python If-Else
+  - [ ] Arithmetic Operators
+- Python (Basic) skill test: Not taken
+- Certificate: Pending
+
+## LeetCode
+
+- Profile URL: Not created or provided
+- Problems attempted: 0/2 confirmed
+  - [ ] Two Sum (#1)
+  - [ ] Palindrome Number (#9)
+- Problems solved: 0 confirmed
+- Editorials read: 0 confirmed
+
+## freeCodeCamp
+
+- Profile URL: Not created or provided
+- Track: Responsive Web Design
+- Cat Photo App: Steps 1–15 not started
+- Cafe Menu: Steps 1–10 not started
+- Certification: Not earned
+
+---
+
+## Weekly Goals
+
+**Week of 2026-11-16**
+
+- [ ] Complete 3 HackerRank Python introductory problems
+- [ ] Attempt 1 LeetCode Easy problem and review its editorial
+- [ ] Complete 10 freeCodeCamp steps
+
+## Monthly Milestones
+
+- Month 1: Complete 10 HackerRank problems and attempt the Python Basic skill test.
+- Month 2: Solve 10 LeetCode Easy problems and complete an HTML lab on freeCodeCamp.
+- Month 3: Earn the HackerRank Python Basic certificate and reach 25 LeetCode Easy problems.
+
+## Platform Reference
+
+| Platform | Best for | First target |
 | --- | --- | --- |
-| LeetCode | Add profile URL | Not recorded |
-| HackerRank | Add profile URL | Not recorded |
-| CodeChef | Add profile URL | Not recorded |
-
-## Project Milestones
-
-- [x] Publish a GitHub profile README.
-- [x] Publish this portfolio index repository.
-- [ ] Add the CSE103 lab repository after locating its GitHub URL or files.
+| [HackerRank](https://www.hackerrank.com) | Practice and skill certifications | Python (Basic) certificate |
+| [LeetCode](https://leetcode.com) | Data structures and interview practice | Build toward 25 Easy problems |
+| [freeCodeCamp](https://www.freecodecamp.org) | Guided web development and certifications | Responsive Web Design certification |
+| [GeeksforGeeks](https://www.geeksforgeeks.org) | Computer science and placement preparation | Read two DSA articles per week |
+| [Kaggle](https://www.kaggle.com) | Data science and machine learning | Explore one public dataset |
